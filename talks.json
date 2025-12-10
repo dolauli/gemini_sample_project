@@ -1,0 +1,77 @@
+[
+  {
+    "time": "10:00 AM",
+    "type": "talk",
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": "1 hour",
+    "description": "A deep dive into the trends and future of popular JavaScript frameworks like React, Vue, and Svelte."
+  },
+  {
+    "time": "11:00 AM",
+    "type": "transition"
+  },
+  {
+    "time": "11:10 AM",
+    "type": "talk",
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["John Smith"],
+    "category": ["Node.js", "API", "Backend"],
+    "duration": "1 hour",
+    "description": "Learn how to design and build robust and scalable APIs using Node.js and Express."
+  },
+  {
+    "time": "12:10 PM",
+    "type": "transition"
+  },
+  {
+    "time": "12:20 PM",
+    "type": "talk",
+    "title": "CSS Grid and Flexbox: A Modern Approach",
+    "speakers": ["Emily White"],
+    "category": ["CSS", "Frontend"],
+    "duration": "1 hour",
+    "description": "Master the power of CSS Grid and Flexbox to create complex and responsive layouts with ease."
+  },
+  {
+    "time": "01:20 PM",
+    "type": "lunch",
+    "title": "Lunch Break"
+  },
+  {
+    "time": "02:20 PM",
+    "type": "talk",
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["David Green", "Sarah Brown"],
+    "category": ["Machine Learning", "Python"],
+    "duration": "1 hour",
+    "description": "An introductory session on the fundamentals of machine learning using Python and popular libraries like Scikit-learn."
+  },
+  {
+    "time": "03:20 PM",
+    "type": "transition"
+  },
+  {
+    "time": "03:30 PM",
+    "type": "talk",
+    "title": "DevOps for Dummies",
+    "speakers": ["Michael Black"],
+    "category": ["DevOps", "CI/CD"],
+    "duration": "1 hour",
+    "description": "A beginner-friendly guide to DevOps principles and practices, including continuous integration and deployment."
+  },
+  {
+    "time": "04:30 PM",
+    "type": "transition"
+  },
+  {
+    "time": "04:40 PM",
+    "type": "talk",
+    "title": "The Rise of WebAssembly",
+    "speakers": ["Chris Wilson"],
+    "category": ["WebAssembly", "Performance"],
+    "duration": "1 hour",
+    "description": "Explore the potential of WebAssembly to bring near-native performance to web applications."
+  }
+]
